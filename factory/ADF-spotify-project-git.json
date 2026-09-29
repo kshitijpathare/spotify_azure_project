@@ -1,0 +1,15 @@
+{
+	"name": "ADF-spotify-project-git",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8ac6937-08db-49f9-96aa-49cf5a84d870",
+		"tenantId": "baefa793-2f8b-4a50-a743-3f04d206d3dc"
+	}
+}
